@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Tommyzizii
-- 👀 I’m interested in Data Science
+- 👀 I’m interested in BackEnd Development && Data Science
 - 🌱 I’m currently learning Python and Java
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
