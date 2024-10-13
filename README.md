@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Tommyzizii
+- 👋 Hi, I’m Thant Zin Min @Tommy
 - 👀 I’m interested in BackEnd Development && Data Science
 - 🌱 I’m currently learning Python and Java
 - 💞️ I’m looking to collaborate on ...
