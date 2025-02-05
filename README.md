@@ -37,7 +37,7 @@ Hi, I'm Thant Zin Min (a.k.a <a href="https://www.instagram.com/tommyzizii" targ
 
 ### 
 
-<img align="right" height="150" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExdXRvaDhzenh0amx5MDR3Nnlhd29lOXVnd3lqdDFqM2loNXE1MjBpNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Y4ak9Ki2GZCbJxAnJD/giphy.gif"  />
+<img align="right" height="150" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExYm84MDhwcGphYXpnMzhwczM4am11cHdzZXk5ZTc5anV5eGs2M213byZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bGgsc5mWoryfgKBx1u/giphy.gif"  />
 
 ###
 
