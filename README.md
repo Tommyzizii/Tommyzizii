@@ -24,7 +24,7 @@ Hi, I'm Thant Zin Min (a.k.a <a href="https://www.instagram.com/tommyzizii" targ
 * Advanced algorithms and data science concepts<br>
 
 📫 <b>Connect With Me</b><br>
-* <a href="https://www.linkedin.com/in/thantzinmin" target="_blank">LinkedIn</a><br>
+* <a href="www.linkedin.com/in/thant-zin-min-6837bb288" target="_blank">LinkedIn</a><br>
 * <a href="https://github.com/tommyzizii" target="_blank">GitHub</a><br>
 * <a href="https://www.instagram.com/tommyzizii" target="_blank">Instagram</a><br>
 * <a href="mailto:thantzinmin.us@gmail.com">Email</a><br>
