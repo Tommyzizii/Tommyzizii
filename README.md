@@ -73,4 +73,8 @@ Hi, I'm Thant Zin Min (a.k.a <a href="https://www.instagram.com/tommyzizii" targ
 
 ###
 
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/Tommyzizii/Tommyzizii/output/snake.svg" alt="Snake animation" />
+
 ###
