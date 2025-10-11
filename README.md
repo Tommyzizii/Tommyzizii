@@ -2,8 +2,8 @@
 Hi, I'm Thant Zin Min (a.k.a <a href="https://www.instagram.com/tommyzizii" target="_blank">@tommyzizii</a>), a Computer Science student at Assumption University with a passion for Software Development, DevOps, and Clean Architecture. I enjoy working on application projects, optimizing system performance, and designing intuitive user experiences.<br>
 
 💡 What I Work On<br>
-* 📱 <b>Application Development:</b> Building mobile apps using Swift (iOS) and Kotlin (Android), following MVVM architecture for scalable and maintainable code.<br>
-* 💻 <b>Website Development:</b> Developing responsive and interactive websites using HTML, CSS, JavaScript, and backend frameworks.<br>
+* 📱 <b>Mobile Development:</b> Building mobile apps using Swift (iOS) and Kotlin (Android).<br>
+* 💻 <b>Website Development:</b> Developing responsive and interactive websites using JavaScript, and backend frameworks.<br>
 * 🚀 <b>DevOps & Cloud:</b> Exploring CI/CD pipelines, Docker, Kubernetes, and cloud infrastructure to improve software deployment and scalability.<br>
 * 🎯 <b>Algorithm & Data Structures:</b> Strong foundation in binary search trees, red-black trees, and computational logic, with experience in optimizing code efficiency.<br>
 
